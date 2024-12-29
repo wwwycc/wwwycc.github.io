@@ -1,0 +1,36 @@
+main:
+
+  - title: "Protein Conformation Generation via Force-Guided SE(3) Diffusion Models"
+    authors: "<strong>Yan Wang</strong>, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu"
+    conference_short: ICML
+    conference: International Conference on Machine Learning
+    pdf: https://openreview.net/forum?id=sy7MWmjKjt
+    code: https://github.com/bytedance/ConfDiff
+    image: ./assets/img/confdiff_graph.png
+    year: 2024
+
+  - title: "Energy based diffusion generator for efficient sampling of Boltzmann distributions"
+    authors: "<strong>Yan Wang</strong>, Ling Guo, Hao Wu, Tao Zhou"
+    conference_short: Under Review
+    conference: arXiv:2401.02080
+    pdf: https://arxiv.org/abs/2401.02080
+    image: ./assets/img/edg_graph.png
+    year: 2024
+
+  - title: "IB-UQ: Information bottleneck based uncertainty quantification for neural function regression and neural operator learning"
+    authors: "Ling Guo, Hao Wu, <strong>Yan Wang</strong>, Wenwen Zhou, Tao Zhou"
+    conference_short: JCP
+    conference: Journal of Computational Physics
+    pdf: https://doi.org/10.1016/j.jcp.2024.113089
+    image: ./assets/img/ibuq_graph.png
+    year: 2024
+
+  - title: "ProteinBench: A Holistic Evaluation of Protein Foundation Models"
+    authors: "Fei Ye, Zaixiang Zheng, Dongyu Xue, Yuning Shen, Lihao Wang, Yiming Ma, <strong>Yan Wang</strong>, Xinyou Wang, Xiangxin Zhou, Quanquan Gu"
+    conference_short: Under Review
+    conference: arXiv:2409.06744
+    pdf: https://arxiv.org/abs/2409.06744
+    image: ./assets/img/bench_graph.png
+    year: 2024
+  
+  
