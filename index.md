@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Ph.D. student at School of Mathematical Sciences from Tongji University, Shanghai, China. I am advised by Prof. [Hao Wu](https://scholar.google.com/citations?user=BpJevpQAAAAJ). My research interests include AI for Science and machine learning.
+I am a fourth-year Ph.D. student at the School of Mathematical Sciences, Tongji University, Shanghai, China, where I am advised by Prof. [Hao Wu](https://scholar.google.com/citations?user=BpJevpQAAAAJ). I earned my bachelor's degree in Statistics from Tongji University in 2021. Currently, I am interning at ByteDance Research, where I engage in protein dynamics research. 
 
 ## Research Interests
 
