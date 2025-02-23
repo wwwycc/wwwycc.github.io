@@ -27,9 +27,9 @@ main:
 
   - title: "ProteinBench: A Holistic Evaluation of Protein Foundation Models"
     authors: "Fei Ye, Zaixiang Zheng, Dongyu Xue, Yuning Shen, Lihao Wang, Yiming Ma, <strong>Yan Wang</strong>, Xinyou Wang, Xiangxin Zhou, Quanquan Gu"
-    conference_short: Under Review
-    conference: arXiv:2409.06744
-    pdf: https://arxiv.org/abs/2409.06744
+    conference_short: ICLR
+    conference: International Conference on Learning Representations
+    pdf: https://openreview.net/forum?id=BksqWM8737
     image: ./assets/img/bench_graph.png
     year: 2024
   
