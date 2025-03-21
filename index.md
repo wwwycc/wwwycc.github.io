@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year Ph.D. student at the School of Mathematical Sciences, Tongji University, Shanghai, China, where I am advised by Prof. [Hao Wu](https://scholar.google.com/citations?user=BpJevpQAAAAJ). I earned my bachelor's degree in Statistics from Tongji University in 2021. From Jul. 2023 to Feb. 2025, I interned at ByteDance Research, where I engaged in protein dynamics research. 
+I am a fourth-year Ph.D. student at the School of Mathematical Sciences, Tongji University, Shanghai, China, where I am advised by Prof. [Hao Wu](https://scholar.google.com/citations?user=BpJevpQAAAAJ). I earned my bachelor's degree in Statistics from Tongji University in 2021. From Jul. 2023 to Feb. 2025, I interned at ByteDance Research focusing on protein dynamics. Currently, I am a visiting Ph.D. student at Chalmers University of Technology, supervised by Prof. [Simon Olsson](https://scholar.google.com/citations?user=EJMhxFIAAAAJ).
 
 ## Research Interests
 
